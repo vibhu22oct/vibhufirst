@@ -1,0 +1,8 @@
+1. Save this file in Json format locally on computer
+2. Convert the json format to an array
+3. Use a loop to access each element of array
+4. Calculate BMI based on formula 
+5. Create If else conditions based on table provided in the problem
+4.  Store results into separate three array variables
+5. Create a final json variable with three added columns
+6. Write output to a file
